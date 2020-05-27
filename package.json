@@ -1,0 +1,20 @@
+{
+  "name": "cpf-validator",
+  "version": "1.0.0",
+  "description": "Pacote para validação de CPF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipeixoto/validator-cpf.git"
+  },
+  "keywords": [],
+  "author": "peixotoguii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guipeixoto/validator-cpf/issues"
+  },
+  "homepage": "https://github.com/guipeixoto/validator-cpf#readme"
+}
