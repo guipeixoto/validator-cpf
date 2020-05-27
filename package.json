@@ -1,5 +1,5 @@
 {
-  "name": "cpf-validator",
+  "name": "cpf-validator-peix",
   "version": "1.0.0",
   "description": "Pacote para validação de CPF.",
   "main": "index.js",
